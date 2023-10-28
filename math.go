@@ -25,3 +25,11 @@ func Max(a, b float64) float64 {
 func Min(a, b float64) float64 {
 	return math.Min(a, b)
 }
+
+func Abs (a float64) float64 {
+	return math.Abs(a)
+}
+
+func Yn (a int, b float64) float64 {
+	return math.Yn(a,b)
+}
