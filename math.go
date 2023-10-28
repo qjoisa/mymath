@@ -34,6 +34,6 @@ func Yn (a int, b float64) float64 {
 	return math.Yn(a,b)
 }
 
-func Yx(a float64) float64{
+func Round(a float64) float64{
 	return math.Round(a)
 }
