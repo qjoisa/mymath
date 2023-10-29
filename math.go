@@ -55,3 +55,7 @@ func Sin(a float64) float64 {
 func Cos(a float64) float64 {
 	return math.Cos(a)
 }
+
+func Exp(a float64)float64 {
+	return math.Exp(a)
+}
